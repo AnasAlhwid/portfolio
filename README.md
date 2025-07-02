@@ -137,9 +137,10 @@ npm run preview    # Serves the production build locally
 
 ## <a name="contact">📬 Contact</a> 
 
-- 📧 [alhwidanas@gmail.com](mailto:alhwidanas@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/AnasAlhwid/)
-- 💻 [GitHub](https://github.com/AnasAlhwid)
+- [Email](mailto:alhwidanas@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/AnasAlhwid/)
+- [X ](https://x.com/AnasAlhwid)
+- [GitHub](https://github.com/AnasAlhwid)
 
 ## <a name="support">🫰🏻 Support</a>
 
@@ -147,4 +148,4 @@ npm run preview    # Serves the production build locally
 
 ## <a name="license">⚖️ License</a>
 
-[**GNU Affero General Public License v3.0**](https://github.com/AnasAlhwid/ah-portfolio/blob/main/LICENSE)
+[**GNU Affero General Public License v3.0**](https://github.com/AnasAlhwid/portfolio/blob/main/LICENSE)
